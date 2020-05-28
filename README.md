@@ -1,7 +1,9 @@
 <h1 align="center"> Jupyter Notebooks para apoyar los Laboratorios de Física de la Universidad Industrial de Santander</h1>
-<div align="right">Por Profesor David A. Miranda Ph.D y colaboradores</div>
+<div align="right">Por Profesor David A. Miranda PhD y colaboradores</div>
 
 ## Física 3
++ **i0. Introducción**
+  + [Simulación](https://github.com/davidalejandromiranda/laboratorios-fisica/blob/master/f3/i0_intro.ipynb): en este Jupyter Notebook se realiza una introducción al estudio de las ondas y las partículas por medio de simulaciones realizadas con Python.  [Video explicativo]().
 + **i1. Movimiento Armónico Simple**
   + [Simulación](https://github.com/davidalejandromiranda/laboratorios-fisica/blob/master/f3/i1_MAS.ipynb): en este Jupyter Notebook se presenta una simulación de oscilaciones armónicas y amortiguadas.
 + **i2 Ondas Estacionarias en Cuerdas**
