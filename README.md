@@ -3,7 +3,7 @@
 
 ## Física 3
 + **i0. Introducción**
-  + [Simulación](https://github.com/davidalejandromiranda/laboratorios-fisica/blob/master/f3/i0_intro.ipynb): en este Jupyter Notebook se realiza una introducción al estudio de las ondas y las partículas por medio de simulaciones realizadas con Python.
+  + [Simulación](https://github.com/davidalejandromiranda/laboratorios-fisica/blob/master/f3/i0_intro.ipynb): en este Jupyter Notebook se realiza una introducción al estudio de las ondas y las partículas por medio de simulaciones realizadas con Python.  [Video explicativo](https://youtu.be/KGxo-MXARXw).
 + **i1. Movimiento Armónico Simple**
   + [Simulación](https://github.com/davidalejandromiranda/laboratorios-fisica/blob/master/f3/i1_MAS.ipynb): en este Jupyter Notebook se presenta una simulación de oscilaciones armónicas y amortiguadas.
 + **i2 Ondas Estacionarias en Cuerdas**
