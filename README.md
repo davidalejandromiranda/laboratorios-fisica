@@ -5,7 +5,7 @@
 + **Introducción**
   + [Simulación](https://github.com/davidalejandromiranda/laboratorios-fisica/blob/master/f3/i0_intro.ipynb): en este Jupyter Notebook se realiza una introducción al estudio de las ondas y las partículas por medio de simulaciones realizadas con Python.  [Video explicativo](https://youtu.be/KGxo-MXARXw).
 + **Oscilaciones**
-  + [Simulación](https://github.com/davidalejandromiranda/laboratorios-fisica/blob/master/f3/i1_oscilaciones.ipynb): en este Jupyter Notebook se presenta una simulación de oscilaciones armónicas y amortiguadas.
+  + [Simulación](https://github.com/davidalejandromiranda/laboratorios-fisica/blob/master/f3/i1_oscilaciones.ipynb): en este Jupyter Notebook se presenta una simulación de oscilaciones armónicas y amortiguadas.  [Video explicativo](https://youtu.be/RtIkBx-PSas).
 
 + **Ondas Estacionarias en Cuerdas**
   + [Simulación](https://github.com/davidalejandromiranda/laboratorios-fisica/blob/master/f3/i2_Estacionarias_graficas_B1.ipynb): en este Jupyter Notebook se presentan gráficas para mejorar la comprensión del experimento.  [Video explicativo](https://youtu.be/qJnXntsjfSw).
