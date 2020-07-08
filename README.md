@@ -6,7 +6,9 @@
   + [Simulación](https://github.com/davidalejandromiranda/laboratorios-fisica/blob/master/f3/i0_intro.ipynb): en este Jupyter Notebook se realiza una introducción al estudio de las ondas y las partículas por medio de simulaciones realizadas con Python.  [Video explicativo](https://youtu.be/KGxo-MXARXw).
 + **Oscilaciones**
   + [Simulación](https://github.com/davidalejandromiranda/laboratorios-fisica/blob/master/f3/i1_oscilaciones.ipynb): en este Jupyter Notebook se presenta una simulación de oscilaciones armónicas y amortiguadas.  [Video explicativo](https://youtu.be/RtIkBx-PSas).
-  + [Análisis de datos](https://github.com/davidalejandromiranda/laboratorios-fisica/blob/master/f3/i2_Pendulo_amortiguamiento.ipynb): este esl Jupyter Notebook correspondiente al análisis de datos asociados a la obtención del coeficiente de amortiguamiento.  [Video explicativo](https://youtu.be/M1_4gJecyjc).
+  + [Análisis de datos](https://github.com/davidalejandromiranda/laboratorios-fisica/blob/master/f3/i2_Pendulo_amortiguamiento.ipynb): este esl Jupyter Notebook correspondiente al análisis de datos asociados a la obtención del coeficiente de amortiguamiento. Se describen dos métodos para analizar los datos:
+    + Método 1: con solo dos datos experimentales.  Ver [video explicativo](https://youtu.be/M1_4gJecyjc).
+    + Método 2: con linealización de los datos experimentales.  Ver [video explicativo](https://youtu.be/M1_4gJecyjc).
   + [Video explicativo, Cassy-M](https://youtu.be/ScsY0qKHJC8): en este video se describen detalles del estudio del movimiento armónico simple del sistema masa-resorte y análisis de oscilaciones con Cassy-M.
 + **Ondas Estacionarias en Cuerdas**
   + [Simulación](https://github.com/davidalejandromiranda/laboratorios-fisica/blob/master/f3/i2_Estacionarias_graficas_B1.ipynb): en este Jupyter Notebook se presentan gráficas para mejorar la comprensión del experimento.  [Video explicativo](https://youtu.be/qJnXntsjfSw).
