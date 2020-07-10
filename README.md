@@ -14,6 +14,8 @@
   + [Simulación](https://github.com/davidalejandromiranda/laboratorios-fisica/blob/master/f3/i2_Estacionarias_graficas_B1.ipynb): en este Jupyter Notebook se presentan gráficas para mejorar la comprensión del experimento.  [Video explicativo](https://youtu.be/qJnXntsjfSw).
   + [Análisis de datos](https://github.com/davidalejandromiranda/laboratorios-fisica/blob/master/f3/i2_Estacionarias_datos_B1.ipynb): en este Jupyter Notebook se presentan datos experimentales asociados al proyecto y algunas gráficas.  [Video explicativo](https://youtu.be/0LB1QHZUtQ4).
   + [Video explicativo](https://youtu.be/CT7HEPpfQoY): en este video se describen detalles del estudio de las ondas estacionarias en cuerdas.
++ **Circuito RLC: resonancia y factor de calidad**
+  + [Simulación](https://github.com/davidalejandromiranda/laboratorios-fisica/blob/master/f3/i4b_Circuito_RLC_resonancia_factor_calidad.ipynb): esta simulación corresponde a un circuito RLC en serie excitado por una fuente de voltaje sinusoidal.  Se simula la corriente en estado estacionario para diferentes valores de la frecuencia de la señal de excitación, además, se calcula el factor de calidad para varios valores de resistencia.
 + **Pendulo de Pohl**
   + [Simulación, v1](https://github.com/davidalejandromiranda/laboratorios-fisica/blob/master/f3/i4_PenduloDePohl.ipynb): se presenta un breve análisis teórico y simulaciones para oscilaciones armónicas, amortiguadas y forzadas que se pueden presentar en un sistema basado en pendulo de Pohl.
   + [Simulación, v2](https://github.com/davidalejandromiranda/laboratorios-fisica/blob/master/f3/i4_Simulacion_AmplitudOscilaciones_B2.ipynb): se presenta simulación descrita en este [video explicativo](https://youtu.be/tEl9U63cUww).
