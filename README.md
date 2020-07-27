@@ -20,7 +20,7 @@
   + [Simulación, v1](https://github.com/davidalejandromiranda/laboratorios-fisica/blob/master/f3/i4_PenduloDePohl.ipynb): se presenta un breve análisis teórico y simulaciones para oscilaciones armónicas, amortiguadas y forzadas que se pueden presentar en un sistema basado en pendulo de Pohl.
   + [Simulación, v2](https://github.com/davidalejandromiranda/laboratorios-fisica/blob/master/f3/i4_Simulacion_AmplitudOscilaciones_B2.ipynb): se presenta simulación descrita en este [video explicativo](https://youtu.be/tEl9U63cUww).
 + **5. Radiación de cuerpo negro**
-  + [Análisis de datos](https://github.com/davidalejandromiranda/laboratorios-fisica/blob/master/f3/i5_blackbody.ipynb): este Jupyter Notebook te ayudará a procesar los datos obtenidos con el simulador [SpectraPlot](https://www.spectraplot.com/blackbody).  [Video explicativo]().
+  + [Análisis de datos](https://github.com/davidalejandromiranda/laboratorios-fisica/blob/master/f3/i5_blackbody.ipynb): este Jupyter Notebook te ayudará a procesar los datos obtenidos con el simulador [SpectraPlot](https://www.spectraplot.com/blackbody).  [Video explicativo](https://youtu.be/xXOhJ07xpFg).
 + **6. Ondas decimétricas**
   + [Video explicativo](https://youtu.be/FtSILgRoFr4): en este video se describen detalles del estudio del comportamiento de la propagación de ondas decimétricas en diferentes medios.
 + **7. Ecosonda**
