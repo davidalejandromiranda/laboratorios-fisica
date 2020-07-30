@@ -11,7 +11,7 @@
     + Método 2: con linealización de los datos experimentales.  Ver [video explicativo](https://youtu.be/Khrhk-4LTJ0).
   + [Video explicativo, Cassy-M](https://youtu.be/ScsY0qKHJC8): en este video se describen detalles del estudio del movimiento armónico simple del sistema masa-resorte y análisis de oscilaciones con Cassy-M.
 + **2. Péndulo simple**
-  + [Experimento casero](): aquí encontrarás datos de un experimento casero donde se analizó un péndulo simple; además, en el Jupyter Notebook se analizan los datos obtenidos con [Tracker](https://physlets.org/tracker/).  [Video explicativo]().
+  + [Experimento casero](https://github.com/davidalejandromiranda/laboratorios-fisica/blob/master/f3/i2_Pendulo_Simple/Pendulo_Simple.ipynb): aquí encontrarás datos de un experimento casero donde se analizó un péndulo simple; además, en el Jupyter Notebook se analizan los datos obtenidos con [Tracker](https://physlets.org/tracker/).  [Video explicativo]().
 + **3. Ondas Estacionarias en Cuerdas**
   + [Simulación](https://github.com/davidalejandromiranda/laboratorios-fisica/blob/master/f3/i2_Estacionarias_graficas_B1.ipynb): en este Jupyter Notebook se presentan gráficas para mejorar la comprensión del experimento.  [Video explicativo](https://youtu.be/qJnXntsjfSw).
   + [Análisis de datos](https://github.com/davidalejandromiranda/laboratorios-fisica/blob/master/f3/i2_Estacionarias_datos_B1.ipynb): en este Jupyter Notebook se presentan datos experimentales asociados al proyecto y algunas gráficas.  [Video explicativo](https://youtu.be/0LB1QHZUtQ4).
